@@ -1,4 +1,7 @@
 name: Peng Chen
+email: yueyi2010@gmail.com
+github_username: yueyi2010
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
