@@ -3,40 +3,32 @@ title: Peng Blog
 SEOTitle: 陈鹏的博客 | Peng Blog
 header-img: img/home-bg.jpg
 email: yueyi2010@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, yueyi2010, @yueyi2010, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "http://huangxuan.me"              # your host, for absolute URL
+description: "陈鹏，C++程序员，业余码字爱好者 | 这里是 陈鹏 的个人博客 | 代码，诗和远方。"
+keyword: "陈鹏，yueyi2010, @yueyi2010, 陈鹏的博客, Peng Blog, 博客, 个人网站, 互联网, 程序员，码字爱好者"
+url: "http://yueyi2010.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-
-
 
 # SNS settings
 RSS: false
-weibo_username:     yueyi2010
+weibo_username:     寻风雾里
 zhihu_username:     yueyi2010
 github_username:    yueyi2010
 #twitter_username:  yueyi2010
-facebook_username:  yueyi2010
-
-
+#facebook_username:  yueyi2010
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
-#permalink: pretty
 permalink: /blog/:year/:month/:day/:title
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
-
+anchorjs: true    # if you want to customize anchor. check out line:181 of `post.html`
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 gems:
   - jekyll-sitemap
   - jekyll-paginate
-
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -50,7 +42,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: yueyi2010
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
