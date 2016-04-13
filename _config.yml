@@ -49,7 +49,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: a76ce3352b6f60b5951894ca7300a40e
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 ga_domain: huangxuan.me
@@ -72,6 +72,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "博客模板作者-黄玄的博客",
-        href: "http://huangxuan.me/
+        href: "http://huangxuan.me/"
     }
 ]
